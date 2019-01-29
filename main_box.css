@@ -1,0 +1,35 @@
+/*Start with the included HTML file problem1_ic.html and create a new CSS file called problem1_ic to style the HTML as requested below.
+Add any additional HTML attributes they may be missing in order to style some elements.*/
+
+/*for all h1*/
+.firstChange{
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+/*for all h2*/
+.secondChange{
+    background-color: yellow;
+    text-align: right;
+}
+
+.quote {
+    font-family: "Courier New", Courier, monospace;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px;
+}
+
+/*for all dates*/
+.styleDate{
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+}
+
+.wordUnderline{
+    text-decoration: underline;
+}
